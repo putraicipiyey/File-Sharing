@@ -98,7 +98,7 @@ bash start
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Thanks To [Risman](https://github.com/mrismanaziz) for source repo
-- Thanks To [Dyecstar](t.me/dyecstar) 
+- Thanks To [Dyecstar](https://telegram.dog/dyecstar) 
 ##
 
    **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
