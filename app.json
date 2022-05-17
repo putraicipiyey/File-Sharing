@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/putraicipiyey/filesharing ",
-  "logo": "https://telegra.ph/file/30c5d4c0a63f46f628626.jpg",
+  "repository": "https://github.com/putraicipiyey/File-Sharing",
+  "logo": "https://telegra.ph/file/f99edfd62cc47c9f52033.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "putraicipiyey"
+      "value": "fckandnight"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "5106625166"
+      "value": "1926379604"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
