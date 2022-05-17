@@ -22,10 +22,10 @@ API_HASH = os.environ.get("API_HASH", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1926379604"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "putraicipiyey")
+OWNER = os.environ.get("OWNER", "fckandnight")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
@@ -64,7 +64,7 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == "True
 ADMINS.append(OWNER_ID)
 # Jangan Dihapus nanti ERROR, HAPUS ID Dibawah ini = TERIMA KONSEKUENSI
 # Spoiler KONSEKUENSI-nya Paling CH nya tiba tiba ilang & owner nya gua gban 🤪
-ADMINS.extend((OWNER_ID, 844432220, 1250450587, 1750080384, 2102118281, 5106625166))
+ADMINS.extend((OWNER_ID, 844432220, 1250450587, 1750080384, 2102118281, 1926379604))
 
 
 LOG_FILE_NAME = "logs.txt"
