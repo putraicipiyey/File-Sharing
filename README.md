@@ -1,4 +1,4 @@
-# **DI BACA YA DEK**
+# **DISCLAIMER**
 
 # **File-Sharing**
 
@@ -6,10 +6,6 @@
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.**
 
 **Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke audy4twnty di [fav](https://t.me/demusplace)**
-
-### Attention
-
-- **Sedia Juga Repo Premuim Bisa Req Button Minat Ke gc [fav](https://t.me/demusplace)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -102,16 +98,7 @@ bash start
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Thanks To [Risman](https://github.com/mrismanaziz) for source repo
-- makasih dekku
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[FILE-SHARING-BOT](https://github.com/mrismanaziz/File-Sharing-Man/) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
-
+- Thanks To [Dyecstar](t.me/dyecstar) 
 ##
 
    **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
