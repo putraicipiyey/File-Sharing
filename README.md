@@ -5,7 +5,7 @@
 **Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.**
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke audy4twnty di [fav](https://t.me/demusplace)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di [fav multiverse](https://t.me/demusplace)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
